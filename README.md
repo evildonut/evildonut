@@ -5,9 +5,9 @@ Test, test.
 [Et link](Testside1.html)
 
 ### Indhold
-[Tips til at optage lyd og speaks](Testside1.html) (kommer snart)
-[Tjekliste til når du laver nyheder](Testside1.html) (kommer snart)
-[Stilguide](Testside1.html) (kommer snart)
+* [Tips til at optage lyd og speaks](Testside1.html) (kommer snart)
+* [Tjekliste til når du laver nyheder](Testside1.html) (kommer snart)
+* [Stilguide](Testside1.html) (kommer snart)
 
 <!--
 **evildonut/evildonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
