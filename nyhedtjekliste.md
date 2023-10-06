@@ -1,5 +1,6 @@
 *[Tilbage til forsiden](index.html)*
 
+#Tjekliste til når du tilføjer nyheder til siden
 Dette er en lille checkliste med punkter, du kan støtte dig til, når du skal lægge en artikel eller nyhed op på websiden. Brug den gerne som et værktøj til at sikre, at du har gjort alt hvad der skal gøres. Alle punkter bliver uddybet nedenfor.
 
 Husk, at du altid har mulighed for at trykke "gem som kladde". Brug den gerne flittigt, da den også gør forhåndsvisninger mere pålidelige.
@@ -43,7 +44,7 @@ Så skal brugerne have noget at klikke på! Indsæt henvisninger til de kilder, 
 
 Lad linket indgå som en naturlig del af teksten, fx: "På [spillets nyopslåede Steam-side](http://example.com) fremgår det..."
 
-Undgå formuleringer som disse: "Du kan læse mere om spillet [her](http://example.com)
+Undgå formuleringer som disse: "Du kan læse mere om spillet [her](http://example.com)"
 
 Husk at indstille linket til at åbne i et nyt faneblad.
 
