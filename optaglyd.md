@@ -35,7 +35,7 @@ Når du taler, skal måleren gerne ligge et sted mellem -18 og -12, sådan cirka
 
 Rigtig mange mikrofoner har en "gain"-knap. Justér på den, mens du taler, så måleren kommer til at ligge cirka mellem -18 og -12. Hvis din mikrofon ikke har en knap til gain, er der en slider på måleren i Audacity, du kan trække i. Men brug mikrofonens gain-knap først, hvis der er en.
 
-Tjek **altid** dine indstillinger, hver gang du skal optage. Hvis du skal være med i podcasten, er det også en god ide at tjekke din lydstyrke, inden du tilslutter.
+**Tjek altid dine indstillinger, hver gang du skal optage**. Hvis du skal være med i podcasten, er det også en god ide at tjekke din lydstyrke, inden du tilslutter.
 
 ## Fjern støj fra omgivelserne, inden du optager
 Luk døre og vinduer. Sluk for alt hvad der har en blæser eller står og summer, hvis du kan. Send ungerne ud at lege eller vent til de sover.
@@ -74,7 +74,7 @@ Se dette billede af vores statsminister, der prøver at holde en vigtig tale fra
 ## Smaskelyde
 De fleste af os laver små smaskelyde fra læber og tunge, når vi taler. De kan desværre lyde meget fremtrædende, når man taler. 
 
-Det kan hjælpe at drikke en tår vand, inden du optager. De kloge siger at æblejuice skulle være endnu bedre, og det kan også hjælpe at spise et æble forinden, helst af sorten Granny Smith.
+Det kan hjælpe at drikke en tår vand, inden du optager. De kloge siger at æblejuice skulle være endnu bedre, og det kan også hjælpe at spise et æble, helst af sorten Granny Smith.
 
 Mælk og kaffe er til gengæld det værste, du kan drikke forinden. Undgå dem gerne i en times tid før du optager.
 
