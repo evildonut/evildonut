@@ -1,7 +1,7 @@
-# Testside numero uno
+# Hov, her var ikke noget
 
-Dette er den første testside. Den er *herre* nice!
+Det var pokkers. Her var ikke noget alligevel.
 
-Fantastico! [Er dette et link til forsiden?](README.html) Det får vi at se!
+(Men nu stod der jo også "kommer snart" ude på forsiden...)
 
-Lovely.
+[Tilbage til forsiden](README.html)
