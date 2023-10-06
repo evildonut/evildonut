@@ -80,4 +80,4 @@ Mælk og kaffe er til gengæld det værste, du kan drikke forinden. Undgå dem g
 
 Youtube-kanalen Podcastage har en video med tips, der dækker mange af de samme pointer.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
