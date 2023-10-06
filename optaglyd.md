@@ -97,6 +97,6 @@ Jo mere du øver dig, jo bedre bliver du. Læs gerne din tekst højt for dig sel
 ## Jeg kan ikke lide at læse, har du en video?
 Youtube-kanalen Podcastage har en video med tips, der dækker mange af de samme pointer.
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 *[Tilbage til forsiden](index.html)*
