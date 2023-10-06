@@ -6,19 +6,19 @@ Husk, at du altid har mulighed for at trykke "gem som kladde". Brug den gerne fl
 
 Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx Word, Google Docs, LibreOffice eller hvad de nu alt sammen hedder. Dels er det noget lettere at arbejde med en at forfatte direkte i WP, dels er det altid godt med automatisk stavekontrol. 
 
-[] Læs din tekst igennem for stave- og slåfejl
-[] Sæt overskrift ind i WP
-[] Sæt brødtekst ind i WP
-[] Sæt din artikel ind i WP
-[] Indsæt relevante links i teksten
-[] Indsæt evt Tweets, Youtube-videoer mv
-[] Tilføj skribentprofil
-[] Tilføj "MERE FRA HARDWIRE"
-[] Vælg den rette kategori
-[] Tilføj nogle relevante tags
-[] Tilføj et "udvalgt billede"
-[] Læs det hele igennem en sidste gang
-[] Publicer og opdater forsiden
+✅ Læs din tekst igennem for stave- og slåfejl  
+✅ Sæt overskrift ind i WP  
+✅ Sæt brødtekst ind i WP  
+✅ Sæt din artikel ind i WP  
+✅ Indsæt relevante links i teksten  
+✅ Indsæt evt Tweets, Youtube-videoer mv  
+✅ Tilføj skribentprofil  
+✅ Tilføj "MERE FRA HARDWIRE"  
+✅ Vælg den rette kategori  
+✅ Tilføj nogle relevante tags  
+✅ Tilføj et "udvalgt billede"  
+✅ Læs det hele igennem en sidste gang  
+✅ Publicer og opdater forsiden  
 
 ## Læs din tekst igennem for stave- og slåfejl
 Word og lignende programmer kan fange meget, men langt fra alt. Stavekontrol er elendig til at spotte manglende ord, for eksempel. Så læs din tekst igennem fra ende til anden, inden du går i gang med at overføre den til WP. Læs, ikke skimme.
