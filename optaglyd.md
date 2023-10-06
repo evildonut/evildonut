@@ -27,7 +27,7 @@ Sæt Audacity til at optage i 24 bit kvalitet og 48000 Hz. Der er en stor knap i
 ![](./assets/audasettings1.png)
 ![](./assets/audasettings2.png)
 
-Hvis dit udstyr af en eller anden grund ikke understøtter 24 bit, må du nøjedes med at vælge 16 bit. Undgå 32 bit, selv hvis det er tilgængeligt - det giver bare mere arbejde til klipperen.
+Hvis dit udstyr af en eller anden grund ikke understøtter 24 bit, må du nøjes med at vælge 16 bit. Undgå 32 bit, selv hvis det er tilgængeligt - det giver bare mere arbejde til klipperen.
 
 Gem din optagelse i almindeligt WAV. Det gøres i menuen File, derefter Export, og så "Export as WAV".
 
@@ -97,6 +97,6 @@ Jo mere du øver dig, jo bedre bliver du. Læs gerne din tekst højt for dig sel
 ## Jeg kan ikke lide at læse, har du en video?
 Youtube-kanalen Podcastage har en video med tips, der dækker mange af de samme pointer.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 *[Tilbage til forsiden](index.html)*
