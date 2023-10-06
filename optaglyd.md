@@ -1,14 +1,14 @@
+*[Tilbage til forsiden](index.html)*
+
 # Tips til at optage lyd/speaks
-Her er en stribe tips til at få det bedst mulige resultat, når du skal indtale din tekst til videoanmeldelser og des lige. Som en ekstra bonus gælder de fleste tips også, hvis du skal være med i podcasten
+Her er en stribe tips til at få det bedst mulige resultat, når du skal indtale din tekst til videoanmeldelser og des lige. Som en ekstra bonus gælder de fleste tips også, hvis du skal være med i podcasten.
 
 ## Hvad skal jeg optage i?
-
 Hvis du mangler et program til at optage lyd i, kan du hente [Audacity](https://www.audacityteam.org/download/). Det er gratis og hæderligt og kan det, du skal bruge. 
 
 Hvis du allerede er hærdet hjemmemusiker og har en DAW, du foretrækker, så bruger du bare den i stedet.
 
 ## Hvilke indstillinger og filformater skal jeg bruge?
-
 Sæt Audacity til at optage i 24 bit kvalitet og 48000 Hz. Der er en stor knap i værktøjsbjælken med ordene "Audio Setup" og billede af en højtaler. Klik på den og vælg "Audio settings".
 
 ![](./assets/audasettings1.png)
@@ -34,6 +34,8 @@ Værktøjsbjælken i Audacity har et par målere længst ude til højre. Klik p�
 Når du taler, skal måleren gerne ligge et sted mellem -18 og -12, sådan cirka. Ligger den der, burde du få et godt og brugbart signal, samtidig med at der er "luft" nok foroven til at optagelsen ikke overstyrer, hvis du kommer til at hæve stemmen.
 
 Rigtig mange mikrofoner har en "gain"-knap. Justér på den, mens du taler, så måleren kommer til at ligge cirka mellem -18 og -12. Hvis din mikrofon ikke har en knap til gain, er der en slider på måleren i Audacity, du kan trække i. Men brug mikrofonens gain-knap først, hvis der er en.
+
+Tjek **altid** dine indstillinger, hver gang du skal optage. Hvis du skal være med i podcasten, er det også en god ide at tjekke din lydstyrke, inden du tilslutter.
 
 ## Fjern støj fra omgivelserne, inden du optager
 Luk døre og vinduer. Sluk for alt hvad der har en blæser eller står og summer, hvis du kan. Send ungerne ud at lege eller vent til de sover.
@@ -76,8 +78,12 @@ Det kan hjælpe at drikke en tår vand, inden du optager. De kloge siger at æbl
 
 Mælk og kaffe er til gengæld det værste, du kan drikke forinden. Undgå dem gerne i en times tid før du optager.
 
-## Jeg kan ikke lide at læse, har du en video?
+## Øvelse gør mester
+Jo mere du øver dig, jo bedre bliver du. Læs gerne din tekst højt for dig selv, inden du begynder at optage. Kender du teksten godt, bliver din oplæsning også mere flydende. Samtidigt kan du måske fange formuleringer, der er svære eller tunge at læse op. Hvad der fungerer godt på skrift, virker ikke altid lige så godt i tale.
 
+## Jeg kan ikke lide at læse, har du en video?
 Youtube-kanalen Podcastage har en video med tips, der dækker mange af de samme pointer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*[Tilbage til forsiden](index.html)*
