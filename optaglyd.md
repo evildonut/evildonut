@@ -31,7 +31,7 @@ Værktøjsbjælken i Audacity har et par målere længst ude til højre. Klik p�
 
 ![](./assets/audagain.png)
 
-Måleren skal gerne ligge et sted mellem -18 og -12, sådan cirka. Ligger den der, burde du få et godt og brugbart signal, samtidig med at der er "luft" nok foroven til at optagelsen ikke overstyrer, hvis du kommer til at hæve stemmen.
+Når du taler, skal måleren gerne ligge et sted mellem -18 og -12, sådan cirka. Ligger den der, burde du få et godt og brugbart signal, samtidig med at der er "luft" nok foroven til at optagelsen ikke overstyrer, hvis du kommer til at hæve stemmen.
 
 Rigtig mange mikrofoner har en "gain"-knap. Justér på den, mens du taler, så måleren kommer til at ligge cirka mellem -18 og -12. Hvis din mikrofon ikke har en knap til gain, er der en slider på måleren i Audacity, du kan trække i. Men brug mikrofonens gain-knap først, hvis der er en.
 
@@ -76,3 +76,8 @@ Det kan hjælpe at drikke en tår vand, inden du optager. De kloge siger at æbl
 
 Mælk og kaffe er til gengæld det værste, du kan drikke forinden. Undgå dem gerne i en times tid før du optager.
 
+## Jeg kan ikke lide at læse, har du en video?
+
+Youtube-kanalen Podcastage har en video med tips, der dækker mange af de samme pointer.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><
