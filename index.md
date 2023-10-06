@@ -7,5 +7,5 @@ Tag fat i Rasmus, hvis du har spørgsmål, forslag til ændringer eller ideer ti
 ## Indhold
 * [Tips til at optage lyd/speaks](optaglyd.html) 
 * [Tjekliste til når du laver nyheder](Testside1.html) (kommer snart)
-* [Stilguide](Testside1.html) (kommer snart)
+* [Stilguide](Testside1.html) (kommer senere)
 
