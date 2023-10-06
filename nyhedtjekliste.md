@@ -29,10 +29,10 @@ Overskriften (eller rubrikken, hvis vi skal tale journalistsprog) giver mere ell
 ## Sæt brødtekst ind i WP
 Laaangt nede af siden er der et felt, der hedder "brødtekst". Her skal tilføjes en lille underoverskrift (underrubrik for de faglærte). Den bliver kun vist, når man åbner selve artiklen.
 
-![](./assets/broedtekst-edit.png)
+![](./assets/broedtekst-edit.png)  
 Her indsættes teksten
 
-![](./assets/broedtekst-visning.png)
+![](./assets/broedtekst-visning.png)  
 Og sådan vises den i artiklen.
 
 ## Sæt din artikel ind i WP
