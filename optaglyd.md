@@ -3,6 +3,19 @@
 # Tips til at optage lyd/speaks
 Her er en stribe tips til at få det bedst mulige resultat, når du skal indtale din tekst til videoanmeldelser og des lige. Som en ekstra bonus gælder de fleste tips også, hvis du skal være med i podcasten.
 
+Guiden dækker disse punkter:
+
+- Hvad skal jeg optage i?
+- Hvilke indstillinger og filformater skal jeg bruge?
+- Indstil din input-lydstyrke/gain korrekt
+- Fjern støj fra omgivelserne, inden du optager
+- Afstand til mikrofonen
+- Plosiver og popfiltre
+- Sørg for at mikrofonen vender den rigtige vej
+- Smaskelyde
+- Øvelse gør mester
+- Jeg kan ikke lide at læse, har du en video?
+
 ## Hvad skal jeg optage i?
 Hvis du mangler et program til at optage lyd i, kan du hente [Audacity](https://www.audacityteam.org/download/). Det er gratis og hæderligt og kan det, du skal bruge. 
 
