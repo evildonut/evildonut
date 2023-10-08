@@ -6,20 +6,20 @@ En samling af links til websider og programmer, der er nyttige eller gode at hav
 
 ## Nyhedssider
 
-[PlayStation Blog](https://blog.playstation.com/)
-[Xbox News](https://news.xbox.com/en-us/)
-[Eurogamer](https://www.eurogamer.net/)
-[Polygon](https://www.polygon.com/)
-[The Verge (games)](https://www.theverge.com/games)
-[IGN](https://nordic.ign.com/)
-[GamesIndustry](https://www.gamesindustry.biz/)
-[Gamespot](https://www.gamespot.com/)
-[Kotaku](https://kotaku.com/)
-[Rock, Paper, Shotgun](https://www.rockpapershotgun.com/)
-[Shacknews](https://www.shacknews.com/)
-[VG247](https://www.vg247.com/)
-[Video Games Chronicle](https://www.videogameschronicle.com/)
-[Blues News](https://www.bluesnews.com/)
+[PlayStation Blog](https://blog.playstation.com/)  
+[Xbox News](https://news.xbox.com/en-us/)  
+[Eurogamer](https://www.eurogamer.net/)  
+[Polygon](https://www.polygon.com/)  
+[The Verge (games)](https://www.theverge.com/games)  
+[IGN](https://nordic.ign.com/)  
+[GamesIndustry](https://www.gamesindustry.biz/)  
+[Gamespot](https://www.gamespot.com/)  
+[Kotaku](https://kotaku.com/)  
+[Rock, Paper, Shotgun](https://www.rockpapershotgun.com/)  
+[Shacknews](https://www.shacknews.com/)  
+[VG247](https://www.vg247.com/)  
+[Video Games Chronicle](https://www.videogameschronicle.com/)  
+[Blues News](https://www.bluesnews.com/)  
 
 
 ## Andre programmer
