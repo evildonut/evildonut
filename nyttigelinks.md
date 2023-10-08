@@ -21,6 +21,12 @@ En samling af links til websider og programmer, der er nyttige eller gode at hav
 [Video Games Chronicle](https://www.videogameschronicle.com/)  
 [Blues News](https://www.bluesnews.com/)  
 
+## Indbyggede værktøjer i Windows
+Skal du bruge et **screenshot** eller et udklip af en side i din browser. Tryk **win+shift+s**
+
+Vil du have fjernet baggrunden fra et billede? **Paint i Windows 11** kan gøre det. Eller, det kommer det til inden længe. Funktionen er i beta lige nu, men kommer snart ud til alle.
+
+**Microsoft Powertoys** er ikke indbygget som standard, men hent det alligevel. Det virker både i Windows 10 og 11, og er en samlig *meget* nyttige værktøjer. **Text Extractor** kan kopiere tekst ud fra billeder, og er måske den mest nyttige for os, men der er mange godter. [Hent det fra Microsoft](https://learn.microsoft.com/en-us/windows/powertoys/)
 
 ## Andre programmer
 **Paint.NET** - et gratis program til billedredigering. Kan de fleste basale ting, og understøtter et væld af formater. Sidstnævnte er især godt, hvis du skal konvertere et billede fra et underligt format som AVIF til noget mere almindeligt som PNG eller JPG. (Sony og PlayStation er slemme til at bruge disse formater på deres sider). Hent det fra [getpaint.pet](https://www.getpaint.net)
