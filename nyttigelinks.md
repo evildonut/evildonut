@@ -23,7 +23,7 @@ En samling af links til websider og programmer, der er nyttige eller gode at hav
 
 
 ## Andre programmer
-**Paint.NET** - et gratis program til billedredigering. Kan de fleste basale ting, og understøtter et væld af formater. Sidstnævnte er især godt, hvis du skal konvertere et billede fra et underligt format som AVIF til noget mere almindeligt som PNG eller JPG. (Sony og PlayStation er slemme til at bruge disse formater på deres sider). Hent det fra [getpaint.pet](https://www.getpaint.net
+**Paint.NET** - et gratis program til billedredigering. Kan de fleste basale ting, og understøtter et væld af formater. Sidstnævnte er især godt, hvis du skal konvertere et billede fra et underligt format som AVIF til noget mere almindeligt som PNG eller JPG. (Sony og PlayStation er slemme til at bruge disse formater på deres sider). Hent det fra [getpaint.pet](https://www.getpaint.net)
 
 **Audacity** - et gratis program til at optage og redigere i lyd. Et fint bud, hvis du skal indtale speak til en videoanmeldelse eller andet. Hent det fra [audacityteam.org](https://www.audacityteam.org/)
 
