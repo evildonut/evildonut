@@ -27,6 +27,8 @@ En samling af links til websider og programmer, der er nyttige eller gode at hav
 
 **Audacity** - et gratis program til at optage og redigere i lyd. Et fint bud, hvis du skal indtale speak til en videoanmeldelse eller andet. Hent det fra [audacityteam.org](https://www.audacityteam.org/)
 
+**InoReader** - Google havde engang en fremragende RSS-læser, der hed Google Reader. Og som med så mange Google-produkter blev den aflivet ud af det blå. Det bedste alternativ, jeg kunne finde, er InoReader. Hvis du ikke gider klikke rundt til 117 forskellige websider, men gerne vil have samlet alt i ét feed, er InoReader vejen. Det forudsætter bare at de enkelte websider tilbyder RSS. Det gør de fleste heldigvis stadig. [inoreader.com](https://www.inoreader.com/)
+
 **Notepad++** - et overlegent og gratis alternativ til Notepad, der kan cirka 1 million ting. Også mere end du nogensinde får brug for. Jeg bruger det fx hvis jeg skal have sorteret en liste alfabetisk. Hent det fra [notepad-plus-plus.org](https://notepad-plus-plus.org/)
 
 **Photopea** - et alternativ til Photoshop, der kører i din browser. Finansieret med reklamer (og mulighed for at betale sig fra dem). Jeg bruger det ikke rigtig selv, men måske kan andre få gavn af det. Prøv det på [photopea.com](https://www.photopea.com/)
