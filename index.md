@@ -6,7 +6,6 @@ Tag fat i Rasmus, hvis du har spørgsmål, forslag til ændringer eller ideer ti
 
 ## Indhold
 * ✅ [Tips til at optage lyd/speaks](optaglyd.html)
-* ❌ [Sådan retter du i forsiden](Testside1.html) (kommer senere)
 * ✅ [Tjekliste til når du laver nyheder](nyhedtjekliste.html)
 * ✅ [Nyttige links](nyttigelinks.html)
 * ❌ [Stilguide](Testside1.html) (kommer senere)
