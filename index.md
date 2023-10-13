@@ -5,7 +5,8 @@ Bogmærk siden, så du altid har den ved hånden. Del gerne linket med de andre 
 Tag fat i Rasmus, hvis du har spørgsmål, forslag til ændringer eller ideer til nye guides!
 
 ## Indhold
-* ✅ [Tips til at optage lyd/speaks](optaglyd.html) 
+* ✅ [Tips til at optage lyd/speaks](optaglyd.html)
+* ❌ [Sådan retter du i forsiden](Testside1.html) 
 * ✅ [Tjekliste til når du laver nyheder](nyhedtjekliste.html)
 * ✅ [Nyttige links](nyttigelinks.html)
 * ❌ [Stilguide](Testside1.html) (kommer senere)
