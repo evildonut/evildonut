@@ -1,6 +1,6 @@
 *[Tilbage til forsiden](index.html)*
 
-#Tjekliste til når du tilføjer nyheder til siden
+# Tjekliste til når du tilføjer nyheder til siden
 Dette er en lille checkliste med punkter, du kan støtte dig til, når du skal lægge en artikel eller nyhed op på websiden. Brug den gerne som et værktøj til at sikre, at du har gjort alt hvad der skal gøres. Alle punkter bliver uddybet nedenfor.
 
 Husk, at du altid har mulighed for at trykke "gem som kladde". Brug den gerne flittigt, da den også gør forhåndsvisninger mere pålidelige.
@@ -9,7 +9,7 @@ Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx
 
 ✅ Læs din tekst igennem for stave- og slåfejl  
 ✅ Sæt overskrift ind i WP  
-✅ Sæt brødtekst ind i WP  
+✅ Sæt underrubrik ind i WP  
 ✅ Sæt din artikel ind i WP  
 ✅ Indsæt relevante links i teksten  
 ✅ Indsæt evt Tweets, Youtube-videoer mv  
@@ -27,8 +27,10 @@ Word og lignende programmer kan fange meget, men langt fra alt. Stavekontrol er 
 ## Sæt overskrift ind i WP
 Overskriften (eller rubrikken, hvis vi skal tale journalistsprog) giver mere eller mindre sig selv. Det er den første, store linje i WP-editoren.
 
-## Sæt brødtekst ind i WP
-Laaangt nede af siden er der et felt, der hedder "brødtekst". Her skal tilføjes en lille underoverskrift (underrubrik for de faglærte). Den bliver kun vist, når man åbner selve artiklen.
+## Sæt underrubrik ind i WP
+Laaangt nede af siden er der et felt, der hedder "brød tekst". Her skal tilføjes en lille underoverskrift (underrubrik for de faglærte). Den bliver kun vist, når man åbner selve artiklen.
+
+Nej, det giver ingen mening at feltet til underrubrik hedder "brød tekst". Jeg synes også det er underligt og forvirrende.
 
 ![](./assets/broedtekst-edit.png)  
 Her indsættes teksten
@@ -37,7 +39,7 @@ Her indsættes teksten
 Og sådan vises den i artiklen.
 
 ## Sæt din artikel ind i WP
-Kopier selve artikel-teksten ind. Det giver ret meget sig selv.
+Kopier selve artikel-teksten ind. Det sker også i det store felt øverst, hvor du satte overskriften ind.
 
 ## Indsæt relevante links i teksten
 Så skal brugerne have noget at klikke på! Indsæt henvisninger til de kilder, vi citerer fra, og henvis også meget gerne til andre nyheder og artikler om samme emne, hvis vi har nogen.
