@@ -28,10 +28,12 @@ Ingen regel uden undtagelser. Hvis vi omtaler andre redaktionsmedlemmer, kan vi 
 Med YouTubere og andre internetpersonligheder, esportsstjerner m.m. kan vi også holde os til deres kaldenavne. Brug dog gerne det fulde navn samt kaldenavn ved første omtale, hvis det ellers er tilgængeligt og alment kendt.
 
 >Holdets kaptajn har i mange år været Casper ‘cadiaN’ Møller, som er kendt for... [...] Selv havde både cadiaN og Heroic meldt ud, at de blot ville...
+
 ## Titler på spil, film, mv
 Vi skriver titler på spil, film, bøger osv. med *kursiv*. Ingen anførselstegn eller andet. Overskrifter, mellem- og underrubrikker og den slags er undtaget.
 
 >En Bethesda-veteran siger, at *Fallout 76*’s vanskelige lancering var et resultat af virksomhedens “hybris”.
+
 ### Romertal eller titalssytemet?
 Der findes utroligt mange spil, der er efterfølgere, og dermed har tal i navnet. Vi følger den nummerering som udgiveren selv benytter, hvad end det så er romertal eller almindelig titalssystem (1, 2, 3 osv). Hver derfor særligt opmærksom på hvordan udgiveren selv betegner spillet. Er du i tvivl, så google efter coverart eller lignende.
 
@@ -54,6 +56,7 @@ Hvis vi citerer fra en skreven tekst - for eksempel en pressemeddelelse, en emai
 > >The difficulty will also increase drastically as you progress in a mission, contrary to Deep Rock Galactic where the difficulty is more consistent from mission start to mission end.
 >
 >Udviklerne skriver også, at Deep Rock Galactic: Rogue Core startede som en prototype på en ny gamemode i det gamle Deep Rock Galactic, men at de hurtigt indså potentialet for et nyt spil.
+
 ## Links
 Lad gerne links indgå som en naturlig del af en sætning. Både interne såvel som eksterne. Selve link-teksten skal dog helst ikke være for lang.
 
@@ -75,6 +78,7 @@ I store tal bruges punktummer som seperator:
 Med meget store tal kan det hjælpe læseligheden at skrive "millioner" osv i stedet for at skrive tallet ud med cifre, især når det kommer til "pæne" og runde tal. Når antallet af millioner skal benævnes, bruges ovenstående regler stadig.
 
 >To millioner, 150 millioner
+
 ## Forkortelser
 Det er fint at bruge forkortelser, men første gang en forkortelse benyttes, skal den skrives helt ud, så læseren forstår hvad pokker vi mener.
 
@@ -90,6 +94,7 @@ Vi bruger følgende forkortelser for de forskellige konsoller og platforme. Vi e
 PC kan vi bare kalde PC. I nogle tilfælde kan det dog være nødvendigt at specificere operativsystemer.
 
 >Spillet udkommer til PC, PS5 og Xbox
+>
 >Spillet udkommer til PC, både på Windows og Linux.
 
 *[Tilbage til forsiden](index.html)*
