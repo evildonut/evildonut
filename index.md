@@ -8,5 +8,5 @@ Tag fat i Rasmus, hvis du har spørgsmål, forslag til ændringer eller ideer ti
 * ✅ [Tips til at optage lyd/speaks](optaglyd.html)
 * ✅ [Tjekliste til når du laver nyheder](nyhedtjekliste.html)
 * ✅ [Nyttige links](nyttigelinks.html)
-* ❌ [Stilguide](Testside1.html) (kommer senere)
+* ✅ [Stilguide](stilguide.html) (Udkast
 
