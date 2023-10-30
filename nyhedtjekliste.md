@@ -20,7 +20,7 @@ Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx
 ✅ Vælg den rette kategori  
 ✅ Tilføj nogle relevante tags  
 ✅ Tilføj et "udvalgt billede"  
-✅ For anmeldelser: ret URL til
+✅ For anmeldelser: ret URL til  
 ✅ Læs det hele igennem en sidste gang  
 ✅ Publicer og opdater forsiden  
 
