@@ -2,11 +2,15 @@
 # Stilguide v0.2
 *Sidst opdateret 30-10-2023*
 
-Dette er et udkast til en stilguide, der forhåbentligt vil sikre at vi alle skriver nogenlunde ens, og at teksterne på sitet har et nogenlunde ens udtryk, uanset hvem der skriver.
+Fra nu af er stilguiden gældende!
 
-Lige nu skal den mest ses som et oplæg til debat. Hvis der er noget, der skærer dig i øjnene, eller du slet og ret er uenig i nogle af retningslinjerne, så prik til Rasmus på Discord.
+Men den er ikke mere hugget i granit end at vi stadig godt kan diskutere retningslinjerne og justere dem efter behov.
 
-Alt nedenstående er baseret på mine egne præferencer og erfaringer, men jeg er ikke interesseret i at være stil-diktator, så giv endelig din mening til kende!
+~~Dette er et udkast til en stilguide, der forhåbentligt vil sikre at vi alle skriver nogenlunde ens, og at teksterne på sitet har et nogenlunde ens udtryk, uanset hvem der skriver.~~
+
+~~Lige nu skal den mest ses som et oplæg til debat. Hvis der er noget, der skærer dig i øjnene, eller du slet og ret er uenig i nogle af retningslinjerne, så prik til Rasmus på Discord.~~
+
+~~Alt nedenstående er baseret på mine egne præferencer og erfaringer, men jeg er ikke interesseret i at være stil-diktator, så giv endelig din mening til kende!~~
 
 ## Indhold
 - Navne på personer
