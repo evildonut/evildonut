@@ -1,5 +1,7 @@
 *[Tilbage til forsiden](index.html)*
-# Stilguide v0.1
+# Stilguide v0.2
+*Sidst opdateret 30-10-2023*
+
 Dette er et udkast til en stilguide, der forhåbentligt vil sikre at vi alle skriver nogenlunde ens, og at teksterne på sitet har et nogenlunde ens udtryk, uanset hvem der skriver.
 
 Lige nu skal den mest ses som et oplæg til debat. Hvis der er noget, der skærer dig i øjnene, eller du slet og ret er uenig i nogle af retningslinjerne, så prik til Rasmus på Discord.
@@ -10,6 +12,7 @@ Alt nedenstående er baseret på mine egne præferencer og erfaringer, men jeg e
 - Navne på personer
 - Titler på spil, film, mv
    - Romertal eller titalssystemet?
+- Overskrifter
 - Citater
 - Links
 - Tal og numre
@@ -40,6 +43,17 @@ Der findes utroligt mange spil, der er efterfølgere, og dermed har tal i navnet
 >*Marvel's Spider-Man 2*, *Baldur's Gate 3*, *Overwatch 2*, *Diablo IV*, *Final Fantasy XVI*, *The Elder Scrolls VI*
 
 Og vi siger tak til Activision og deres beslutning om at navngive de nye *Call of Duty: Modern Warfare*-remakes med romertal, så man er nødt til at skelne *Call of Duty: Modern Warfare 2* fra *Call of Duty: Modern Warfare II*, for det er jo ikke spor besværligt, nej.
+
+## Overskrifter
+Til nogle artikelformater/tekstgenrer bruger vi overskrifter, der følger et bestemt format.
+
+**Anmeldelser**: Start overskriften med "(spillets titel)-anmeldelse -" og så fængende undertitel. For eksempel:
+
+>Alan Wake II-anmeldelse - Et dyk ned i en forfatters manifesterede mareridt
+>Gargoyles Remastered-anmeldelse - En nostalgisk fælde!
+>Assassin's Creed: Mirage-anmeldelse - et nødvendigt skridt tilbage, men kun et lille skridt frem
+
+Husk bindestreget mellem sidste ord i spillets titel og ordet "anmeldelse". Husk også at ændre URL'en af SEO-hensyn. Se [Tjeklisten for artikler](nyhedstjekliste.html) for mere (dette gælder specifikt for anmeldelser, ikke andre tekster).
 ## Citater
 Hvis vi citerer noget, nogen har sagt i et interview, gør vi det som en del af den almindelige tekst:
 
@@ -47,20 +61,35 @@ Hvis vi citerer noget, nogen har sagt i et interview, gør vi det som en del af 
 >
 >“Virksomhedens _scope_ var ikke så fokuseret, som det nok burde have været, og man kunne se resultatet i den måde, det kom ind på markedet på. Vores egen hybris indhentede os til en vis grad.”
 
-Hvis vi citerer fra en skreven tekst - for eksempel en pressemeddelelse, en email, et opslag på sociale medier - indsættes det i stedet som et blokcitat. Indsæt teksten i WP, marker afsnittet og vælg den blok-type der hedder "citat":
+Hvis vi citerer fra en skreven tekst - for eksempel en pressemeddelelse, en e-mail, et opslag på sociale medier - indsættes det i stedet som et blokcitat. Indsæt teksten i WP, marker afsnittet og vælg den blok-type der hedder "citat". Resultatet ser således ud:
 
->På [spillets nyopslåede Steam-side](https://store.steampowered.com/app/2605790/Deep_Rock_Galactic_Rogue_Core/) skriver udviklerne blandt andet:
->
->> **How is Deep Rock Galactic: Rogue Core different from Deep Rock Galactic?**  
-> >The main difference is the roguelite game structure. In short this means that you start each mission with only the very basics, but as you progress through each run you will get upgrades, equipment and abilities and possibly end up with very powerful builds.  
-> >The difficulty will also increase drastically as you progress in a mission, contrary to Deep Rock Galactic where the difficulty is more consistent from mission start to mission end.
->
->Udviklerne skriver også, at Deep Rock Galactic: Rogue Core startede som en prototype på en ny gamemode i det gamle Deep Rock Galactic, men at de hurtigt indså potentialet for et nyt spil.
+![](./assets/blokcitat.png)
 
+(Hvis citatet er så kort, at det ikke fylder mere end en enkelt linje eller deromkring, er det ikke nødvendigt at lave blokcitat)
+
+Citater skal i citationstegn, medmindre det er et blokcitat som ovenfor.
+
+Citater skal ***ikke*** skrives med kursiv. Hvis du skriver en interview-artikel, hvor dine spørgsmål også indgår i teksten, kan disse skrives med kursiv.
+
+>*Hvad er det bedste ved at lave spil?*
+>
+>"At folk oplever noget, du har skabt. Uanset om det er en positiv eller en negativ reaktion, så sætter det aftryk, og det er utroligt fedt."
+
+Når du citerer noget fra et udenlandsk medie, er det op til dig, om du vil oversætte det til dansk. Vi kan generelt godt antage, at vores læsere forstår engelsk. Hvis du vælger at oversætte, bør du gøre det konsekvent gennem hele den pågældende tekst.
 ## Links
 Lad gerne links indgå som en naturlig del af en sætning. Både interne såvel som eksterne. Selve link-teksten skal dog helst ikke være for lang.
 
 >I går blev der sat et foreløbigt punktum i en over halvandet år lang saga, da Microsoft endelig kunne [gennemføre deres køb af Activision Blizzard](https://hardwire.dk/microsoft-har-endegyldigt-koebt-activision-blizzard/ "Microsoft har endegyldigt købt Activision Blizzard").
+
+Undgå links som disse:
+
+>❌ Læs vores preview af _Cobalt Core_ [her.](https://hardwire.dk/preview-cobalt-core/)
+
+Gør i stedet sådan her:
+
+> ✅Læs vores [preview af Cobalt Core](https://hardwire.dk/preview-cobalt-core/).
+
+(Hvis der optræder en spiltitel i linkteksten som i eksemplet ovenfor, behøver den ikke være kursiveret - det er for besværligt ellers.)
 
 Når vi henviser til andre medier, kan vi evt nøjes med bare at lade medienavnet være link:
 

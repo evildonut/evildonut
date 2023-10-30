@@ -1,6 +1,7 @@
 *[Tilbage til forsiden](index.html)*
 
-# Tjekliste til når du tilføjer nyheder til siden
+# Tjekliste til når du tilføjer nyheder/artikler til siden
+*Sidst opdateret 30-10-2023*
 Dette er en lille checkliste med punkter, du kan støtte dig til, når du skal lægge en artikel eller nyhed op på websiden. Brug den gerne som et værktøj til at sikre, at du har gjort alt hvad der skal gøres. Alle punkter bliver uddybet nedenfor.
 
 Husk, at du altid har mulighed for at trykke "gem som kladde". Brug den gerne flittigt, da den også gør forhåndsvisninger mere pålidelige.
@@ -18,6 +19,7 @@ Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx
 ✅ Vælg den rette kategori  
 ✅ Tilføj nogle relevante tags  
 ✅ Tilføj et "udvalgt billede"  
+✅ For anmeldelser: ret URL til
 ✅ Læs det hele igennem en sidste gang  
 ✅ Publicer og opdater forsiden  
 
@@ -105,6 +107,21 @@ Du kan søge i databasen og vælge et egnet billede. Og hvis her ikke er et, så
 **Vigtigt:** Et godt billede har ikke nogen lys tekst på sig, ej heller for mange lyse farver. På nogle dele af forsiden bliver nyheden/artiklens overskrift nemlig vist med hvid skrift oven på billedet, og så dur det ikke at teksten går i ét med baggrunden eller bliver rodet sammen med anden tekst.
 
 Så, vælg et billede med stærke, klare farver og uden hvid tekst på.
+
+## Ved anmeldelser: ret URL til
+Af hensyn til SEO vil vi gerne have, at selve web-adressen til vores anmeldelser følger et bestemt mønster. Derfor skal URL-feltet rettes til, så det følger mønsteret *spil-titel-anmeldelse* - og ikke mere end det. Undertitlen i overskriften skal skæres fra her. For eksempel:
+
+>cocoon-anmeldelse
+>alan-wake-ii-anmeldelse
+
+Det giver nemlig SEO-venlige URLs som disse:
+
+>Hardwire.dk/cocoon-anmeldelse/
+>Hardwire.dk/alan-wake-ii-anmeldelse/
+
+Du finder knappen til at ændre URL'en ude i den store bjælke til højre.
+
+![](./assets/skifturl.png)
 
 ## Læs det hele igennem en sidste gang
 Nu hvor du har været alt det ovenstående igennem, er dine øjne friske. Så giv lige teksten en sidste hurtig gennemlæsning. Det kan jo være, du har overset noget. 

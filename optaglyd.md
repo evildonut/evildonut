@@ -1,6 +1,7 @@
 *[Tilbage til forsiden](index.html)*
 
 # Tips til at optage lyd/speaks
+*Sidst opdateret 30-10-2023*
 Her er en stribe tips til at få det bedst mulige resultat, når du skal indtale din tekst til videoanmeldelser og des lige. Som en ekstra bonus gælder de fleste tips også, hvis du skal være med i podcasten.
 
 Guiden dækker disse punkter:
@@ -15,6 +16,7 @@ Guiden dækker disse punkter:
 - Smaskelyde
 - Øvelse gør mester
 - Jeg kan ikke lide at læse, har du en video?
+- Videoer specifikt om rumklang
 
 ## Hvad skal jeg optage i?
 Hvis du mangler et program til at optage lyd i, kan du hente [Audacity](https://www.audacityteam.org/download/). Det er gratis og hæderligt og kan det, du skal bruge. 
@@ -46,18 +48,20 @@ Værktøjsbjælken i Audacity har et par målere længst ude til højre. Klik p�
 
 Når du taler, skal måleren gerne ligge et sted mellem -18 og -12, sådan cirka. Ligger den der, burde du få et godt og brugbart signal, samtidig med at der er "luft" nok foroven til at optagelsen ikke overstyrer, hvis du kommer til at hæve stemmen.
 
-Rigtig mange mikrofoner har en "gain"-knap. Justér på den, mens du taler, så måleren kommer til at ligge cirka mellem -18 og -12. Hvis din mikrofon ikke har en knap til gain, er der en slider på måleren i Audacity, du kan trække i. Men brug mikrofonens gain-knap først, hvis der er en.
+Rigtig mange mikrofoner (eller eksterne lydkort, hvis din mikrofon er tilsluttet sådan et) har en "gain"-knap. Justér på den, mens du taler, så måleren kommer til at ligge cirka mellem -18 og -12. Hvis din mikrofon ikke har en knap til gain, er der en slider på måleren i Audacity, du kan trække i. Men brug mikrofonens/lydkortets gain-knap først, hvis der er en.
 
 **Tjek altid dine indstillinger, hver gang du skal optage**. Hvis du skal være med i podcasten, er det også en god ide at tjekke din lydstyrke, inden du tilslutter.
 
 ## Fjern støj fra omgivelserne, inden du optager
 Luk døre og vinduer. Sluk for alt hvad der har en blæser eller står og summer, hvis du kan. Send ungerne ud at lege eller vent til de sover.
 
-De fleste af os siddder nok med stationære computere, men bruger du en bærbar, så tag den med ind i det mest stille og polstrede lokale i dit hjem og optag dér.
+De fleste af os sidder nok med stationære computere, men bruger du en bærbar, så tag den med ind i det mest stille og polstrede lokale i dit hjem og optag dér.
 
-Der er også et gammelt trick blandt radiofolk, speakere og hjemmemusikere, nemlig at optage i sæt klædeskab eller garderobeskab. Alt tøjet og stoffet giver en dejlig lyddæmpning, så du undgår rumklang.
+Der er også et gammelt trick blandt radiofolk, speakere og hjemmemusikere, nemlig at optage i sit klædeskab eller garderobeskab. Alt tøjet og stoffet giver en dejlig lyddæmpning, så du undgår rumklang.
 
 Undgå så vidt muligt lokaler med mange hårde overflader og megen rumklang, hvis du kan.
+
+Rumklang lyder ad helvede til, og er den helt store forskel på om noget lyder amatør-agtigt eller prof. Man kan gøre meget for at nedbringe mængden af rumklang, hvis man er lidt kreativ med sofapuder og de billige, tykke flyttetæpper fra Harald Nyborg eller Jem & Fix. Se videoerne i bunden af guiden for inspiration.
 
 ## Afstand til mikrofonen
 Det er vigtigt at have mikrofonen i den rette afstand. Er den for langt væk, vil den opfange for meget rumklang fra lokalet og andre støjkilder. Er den for tæt på, kan din stemme blive meget (og unaturligt) bas-tung, hvilket som regel ikke er det man ønsker.
@@ -98,5 +102,18 @@ Jo mere du øver dig, jo bedre bliver du. Læs gerne din tekst højt for dig sel
 Youtube-kanalen Podcastage har en video med tips, der dækker mange af de samme pointer.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ty8YLqOmbV4?si=vN7sCEtpdNXpP5FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Videoer specifikt om rumklang
+Her er en stribe videoer om hvordan man reducerer rumklang. Se dem som inspiration og læring - vi forventer ikke at du løber ud og køber en bunke stativer og ophæng til at hænge lyddæmpende tæpper op, eller at du benytter en ekstern optager. Men måske kan du finde et par fif.
+
+Især den første video forklarer de grundlæggende udfordringer godt!
+
+[Booth Junkie - Fixing the world's worst vocal booth](https://www.youtube.com/watch?v=7Wjc_Hv5xAQ&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=4)
+[Curtis Judd - Reduce echo and reverb with sound blankets](https://www.youtube.com/watch?v=uzyEaVYCk3s)
+[Booth Junkie - A voiceover vocal booth in 10 minutes - for free?](https://www.youtube.com/watch?v=5Se381sERrY&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=3)
+[Booth Junkie - Improvise a vocal booth in 5 minutes](https://www.youtube.com/watch?v=7AuZCFZP3ls&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=7)
+[Booth Junkie - Setting up your first "voice booth"](https://www.youtube.com/watch?v=K7NI6RvSK-Q)
+
+Alt hjælper! Hvis du kan MacGuyver'e dig vej til at have en dyne hængende lige bag dig, når du optager, er du nået rigtig langt!
 
 *[Tilbage til forsiden](index.html)*
