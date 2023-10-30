@@ -109,11 +109,11 @@ Her er en stribe videoer om hvordan man reducerer rumklang. Se dem som inspirati
 
 Især den første video forklarer de grundlæggende udfordringer godt!
 
-[Booth Junkie - Fixing the world's worst vocal booth](https://www.youtube.com/watch?v=7Wjc_Hv5xAQ&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=4)
-[Curtis Judd - Reduce echo and reverb with sound blankets](https://www.youtube.com/watch?v=uzyEaVYCk3s)
-[Booth Junkie - A voiceover vocal booth in 10 minutes - for free?](https://www.youtube.com/watch?v=5Se381sERrY&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=3)
-[Booth Junkie - Improvise a vocal booth in 5 minutes](https://www.youtube.com/watch?v=7AuZCFZP3ls&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=7)
-[Booth Junkie - Setting up your first "voice booth"](https://www.youtube.com/watch?v=K7NI6RvSK-Q)
+- [Booth Junkie - Fixing the world's worst vocal booth](https://www.youtube.com/watch?v=7Wjc_Hv5xAQ&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=4)
+- [Curtis Judd - Reduce echo and reverb with sound blankets](https://www.youtube.com/watch?v=uzyEaVYCk3s)
+- [Booth Junkie - A voiceover vocal booth in 10 minutes - for free?](https://www.youtube.com/watch?v=5Se381sERrY&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=3)
+- [Booth Junkie - Improvise a vocal booth in 5 minutes](https://www.youtube.com/watch?v=7AuZCFZP3ls&list=PLzEW-dm_vsRu8OD_caE2mg8YTerbGgOoW&index=7)
+- [Booth Junkie - Setting up your first "voice booth"](https://www.youtube.com/watch?v=K7NI6RvSK-Q)
 
 Alt hjælper! Hvis du kan MacGuyver'e dig vej til at have en dyne hængende lige bag dig, når du optager, er du nået rigtig langt!
 
