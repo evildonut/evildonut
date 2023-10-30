@@ -2,6 +2,7 @@
 
 # Tjekliste til når du tilføjer nyheder/artikler til siden
 *Sidst opdateret 30-10-2023*
+
 Dette er en lille checkliste med punkter, du kan støtte dig til, når du skal lægge en artikel eller nyhed op på websiden. Brug den gerne som et værktøj til at sikre, at du har gjort alt hvad der skal gøres. Alle punkter bliver uddybet nedenfor.
 
 Husk, at du altid har mulighed for at trykke "gem som kladde". Brug den gerne flittigt, da den også gør forhåndsvisninger mere pålidelige.

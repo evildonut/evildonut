@@ -2,6 +2,7 @@
 
 # Tips til at optage lyd/speaks
 *Sidst opdateret 30-10-2023*
+
 Her er en stribe tips til at få det bedst mulige resultat, når du skal indtale din tekst til videoanmeldelser og des lige. Som en ekstra bonus gælder de fleste tips også, hvis du skal være med i podcasten.
 
 Guiden dækker disse punkter:
