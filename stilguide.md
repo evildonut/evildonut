@@ -1,6 +1,6 @@
 *[Tilbage til forsiden](index.html)*
 # Stilguide v0.2
-*Sidst opdateret 30-10-2023*
+*Sidst opdateret 15-11-2023*
 
 Fra nu af er stilguiden gældende!
 
@@ -53,8 +53,8 @@ Til nogle artikelformater/tekstgenrer bruger vi overskrifter, der følger et bes
 
 **Anmeldelser**: Start overskriften med "(spillets titel)-anmeldelse -" og så fængende undertitel. For eksempel:
 
->Alan Wake II-anmeldelse - Et dyk ned i en forfatters manifesterede mareridt
->Gargoyles Remastered-anmeldelse - En nostalgisk fælde!
+>Alan Wake II-anmeldelse - Et dyk ned i en forfatters manifesterede mareridt  
+>Gargoyles Remastered-anmeldelse - En nostalgisk fælde!  
 >Assassin's Creed: Mirage-anmeldelse - et nødvendigt skridt tilbage, men kun et lille skridt frem
 
 Husk bindestreget mellem sidste ord i spillets titel og ordet "anmeldelse". Husk også at ændre URL'en af SEO-hensyn. Se [Tjeklisten for artikler](nyhedstjekliste.html) for mere (dette gælder specifikt for anmeldelser, ikke andre tekster).
