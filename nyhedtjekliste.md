@@ -73,10 +73,11 @@ Knappens placering kan godt flytte sig, afhængigt af hvilke blokke du sidst har
 
 ![](./assets/skribent.png)
 
-## Tilføj "MERE FRA HARDWIRE"
-Samme princip som før. Nu skal du bare vælge blokken "MERE FRA HARDWIRE"
+## Tilføj "MERE FRA ARKADEN"
+Samme princip som før. Nu skal du bare vælge blokken "MERE FRA ARKADEN"
 
 ![](./assets/merefra.png)
+*(Ja, der står "hardwire" på billedet og ikke "arkaden", men jeg orker ikke at tage nye screenshots)*
 
 ## Vælg den rette kategori
 De næste mange punkter foregår alle i sidebar'en til højre på siden. Hvis du ikke kan se den, så tryk på den sorte knap med tandhjulet i værktøjslinjen øvert (lige ved siden af knappen "Udgiv")
@@ -112,13 +113,13 @@ Så, vælg et billede med stærke, klare farver og uden hvid tekst på.
 ## Ved anmeldelser: ret URL til
 Af hensyn til SEO vil vi gerne have, at selve web-adressen til vores anmeldelser følger et bestemt mønster. Derfor skal URL-feltet rettes til, så det følger mønsteret *spil-titel-anmeldelse* - og ikke mere end det. Undertitlen i overskriften skal skæres fra her. For eksempel:
 
->cocoon-anmeldelse
->alan-wake-ii-anmeldelse
+>cocoon-anmeldelse  
+>alan-wake-ii-anmeldelse  
 
 Det giver nemlig SEO-venlige URLs som disse:
 
->Hardwire.dk/cocoon-anmeldelse/
->Hardwire.dk/alan-wake-ii-anmeldelse/
+>Arkaden.dk/cocoon-anmeldelse/  
+>Arkaden.dk/alan-wake-ii-anmeldelse/
 
 Du finder knappen til at ændre URL'en ude i den store bjælke til højre.
 
