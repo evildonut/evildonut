@@ -1,23 +1,14 @@
 *[Tilbage til forsiden](index.html)*
-# Stilguide v0.2
-*Sidst opdateret 15-11-2023*
+# Stilguide v0.3
+*Sidst opdateret 17-02-2024*
 
-Fra nu af er stilguiden gældende!
-
-Men den er ikke mere hugget i granit end at vi stadig godt kan diskutere retningslinjerne og justere dem efter behov.
-
-~~Dette er et udkast til en stilguide, der forhåbentligt vil sikre at vi alle skriver nogenlunde ens, og at teksterne på sitet har et nogenlunde ens udtryk, uanset hvem der skriver.~~
-
-~~Lige nu skal den mest ses som et oplæg til debat. Hvis der er noget, der skærer dig i øjnene, eller du slet og ret er uenig i nogle af retningslinjerne, så prik til Rasmus på Discord.~~
-
-~~Alt nedenstående er baseret på mine egne præferencer og erfaringer, men jeg er ikke interesseret i at være stil-diktator, så giv endelig din mening til kende!~~
-
+Ændringer siden sidst: Tilføjet retningslinjer for brug af talestreger ved citater.
 ## Indhold
 - Navne på personer
 - Titler på spil, film, mv
    - Romertal eller titalssystemet?
 - Overskrifter
-- Citater
+- Citater *(Her er nyt!)*
 - Links
 - Tal og numre
 - Forkortelser
@@ -37,12 +28,12 @@ Med YouTubere og andre internetpersonligheder, esportsstjerner m.m. kan vi også
 >Holdets kaptajn har i mange år været Casper ‘cadiaN’ Møller, som er kendt for... [...] Selv havde både cadiaN og Heroic meldt ud, at de blot ville...
 
 ## Titler på spil, film, mv
-Vi skriver titler på spil, film, bøger osv. med *kursiv*. Ingen anførselstegn eller andet. Overskrifter, mellem- og underrubrikker og den slags er undtaget.
+Vi skriver titler på spil, film, bøger osv. med *kursiv*. Ingen anførselstegn eller andet. Overskrifter, mellem- og undrrubrikker og den slags er undtaget.
 
 >En Bethesda-veteran siger, at *Fallout 76*’s vanskelige lancering var et resultat af virksomhedens “hybris”.
 
 ### Romertal eller titalssytemet?
-Der findes utroligt mange spil, der er efterfølgere, og dermed har tal i navnet. Vi følger den nummerering som udgiveren selv benytter, hvad end det så er romertal eller almindelig titalssystem (1, 2, 3 osv). Hver derfor særligt opmærksom på hvordan udgiveren selv betegner spillet. Er du i tvivl, så google efter coverart eller lignende.
+Der findes utroligt mange spil, der er efterfølgere, og dermed har tal i navnet. Vi følger den nummerering som udgiveren selv benytter, hvad end det så er romertal eller almindelig titalssystem (1, 2, 3 osv). Vær derfor særligt opmærksom på hvordan udgiveren selv betegner spillet. Er du i tvivl, så google efter coverart eller lignende.
 
 >*Marvel's Spider-Man 2*, *Baldur's Gate 3*, *Overwatch 2*, *Diablo IV*, *Final Fantasy XVI*, *The Elder Scrolls VI*
 
@@ -71,13 +62,26 @@ Hvis vi citerer fra en skreven tekst - for eksempel en pressemeddelelse, en e-ma
 
 (Hvis citatet er så kort, at det ikke fylder mere end en enkelt linje eller deromkring, er det ikke nødvendigt at lave blokcitat)
 
-Citater skal i citationstegn, medmindre det er et blokcitat som ovenfor.
+### Tegnsætning omkring citater
+Hvis vi citerer et interview fra et andet medie, skal citatet være i citationstegn. Se Nesmith/Bethesda-citatet ovenfor.
+
+Når vi citerer i blokcitat, skal der ikke være citationstegn eller lignende.
+
+***Nyt:*** Hvis vi har interviewet nogen, og det har været ved personligt møde, over telefonen, videochat, i vores pocast etc, og vi citerer deres udtalelser direkte, kan vi bruge *talestreg* eller *replikstreg*.
+
+>– Det ærgrer mig særligt meget, fordi i de 8-10 år jeg har været i branchen, der er vi kommet et stykke ad vejen.
+
+Du kan lade citater som disse stå i et afsnit helt for sig selv. Du kan også tilføje lidt "forfatterstemmer" og præcisere hvem der taler, og evt binde sammen til næste afsnit, hvis det er et længere citat. I så fald skal du være sikker på at det er tydeligt, hvad der er den interviewedes ord, og hvad der er dine:
+
+>– Der manglede fokus på kvindelige gamere, og det ærgrer mig helt vildt, fordi de helt unge piger skal se nogle rollemodeller, der viser at kvinder også gamer, fortæller Marie Watson og forsætter:
 
 Citater skal ***ikke*** skrives med kursiv. Hvis du skriver en interview-artikel, hvor dine spørgsmål også indgår i teksten, kan disse skrives med kursiv.
 
 >*Hvad er det bedste ved at lave spil?*
 >
->"At folk oplever noget, du har skabt. Uanset om det er en positiv eller en negativ reaktion, så sætter det aftryk, og det er utroligt fedt."
+>– At folk oplever noget, du har skabt. Uanset om det er en positiv eller en negativ reaktion, så sætter det aftryk, og det er utroligt fedt.
+
+**Talestreg bruges *kun* når vi selv har lavet interviewet!** Citerer vi et interview fra et andet medie, skal vi stadig bruge citationstegn!
 
 Når du citerer noget fra et udenlandsk medie, er det op til dig, om du vil oversætte det til dansk. Vi kan generelt godt antage, at vores læsere forstår engelsk. Hvis du vælger at oversætte, bør du gøre det konsekvent gennem hele den pågældende tekst.
 ## Links
