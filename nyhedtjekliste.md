@@ -19,7 +19,7 @@ Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx
 ✅ Tilføj "MERE FRA HARDWIRE"  
 ✅ Vælg den rette kategori  
 ✅ Tilføj nogle relevante tags  
-✅ Tilføj et "udvalgt billede"  *(her er nyt!)*
+✅ Tilføj et "udvalgt billede"  *(her er nyt!)*  
 ✅ For anmeldelser: ret URL til  
 ✅ Læs det hele igennem en sidste gang  
 ✅ Publicer og opdater forsiden  
