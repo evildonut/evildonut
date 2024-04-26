@@ -1,7 +1,7 @@
 *[Tilbage til forsiden](index.html)*
 
 # Tjekliste til når du tilføjer nyheder/artikler til siden
-*Sidst opdateret 30-10-2023*
+*Sidst opdateret 26-04-2024*
 
 Dette er en lille checkliste med punkter, du kan støtte dig til, når du skal lægge en artikel eller nyhed op på websiden. Brug den gerne som et værktøj til at sikre, at du har gjort alt hvad der skal gøres. Alle punkter bliver uddybet nedenfor.
 
@@ -19,7 +19,7 @@ Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx
 ✅ Tilføj "MERE FRA HARDWIRE"  
 ✅ Vælg den rette kategori  
 ✅ Tilføj nogle relevante tags  
-✅ Tilføj et "udvalgt billede"  
+✅ Tilføj et "udvalgt billede"  *(her er nyt!)*
 ✅ For anmeldelser: ret URL til  
 ✅ Læs det hele igennem en sidste gang  
 ✅ Publicer og opdater forsiden  
@@ -102,13 +102,20 @@ Det udvalgte billede er det, der både vises øverst i artiklen under overskrift
 
 Du kan søge i databasen og vælge et egnet billede. Og hvis her ikke er et, så må du ud på [Google Image Search](https://images.google.com/) og lede. Et tip er, at bruge knappen "Værktøj", når resultatere er kommet frem, til begrænse søgningen til store billeder. Vælg et resultat, højreklik på den nye thumbnail der kommer frem, og sig "åben i ny fane". Vurdér om det er godt nok, og gem det på din computer, så du kan uploade.
 
-*Hvis* du uploader, så husk at give billedet en fornuftig titel, og evt også en beskrivelse. Det hjælper MEGET med at søge det frem igen senere!
+*Hvis* du uploader, så **husk** at give billedet en fornuftig titel, og evt også en beskrivelse. Det hjælper MEGET med at søge det frem igen senere!
 
 ![](./assets/billedtitel.png)
 
 **Vigtigt:** Et godt billede har ikke nogen lys tekst på sig, ej heller for mange lyse farver. På nogle dele af forsiden bliver nyheden/artiklens overskrift nemlig vist med hvid skrift oven på billedet, og så dur det ikke at teksten går i ét med baggrunden eller bliver rodet sammen med anden tekst.
 
 Så, vælg et billede med stærke, klare farver og uden hvid tekst på.
+
+***Nyt:*** Vi skal altid kreditere hvor vi har billedet fra, og evt fotografen der har taget det - det gælder også for officielle screenshots, pressebilleder mv. Det gøres i feltet *"Foto af"*, lige over feltet *"Brødtekst"* (altså det med det totalt misvisende navn, hvor vi indsætter underrubrik).
+
+Eksempler ("Foto af" bliver sat ind automatisk):
+>Foto af: Ghost Ship Games
+>Foto af: 20th Century Films
+>Foto af: Morten Jensen
 
 ## Ved anmeldelser: ret URL til
 Af hensyn til SEO vil vi gerne have, at selve web-adressen til vores anmeldelser følger et bestemt mønster. Derfor skal URL-feltet rettes til, så det følger mønsteret *spil-titel-anmeldelse* - og ikke mere end det. Undertitlen i overskriften skal skæres fra her. For eksempel:

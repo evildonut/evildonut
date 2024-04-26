@@ -1,18 +1,26 @@
 *[Tilbage til forsiden](index.html)*
-# Stilguide v0.3
-*Sidst opdateret 17-02-2024*
+# Stilguide v0.4
+*Sidst opdateret 26-04-2024*
 
 Ændringer siden sidst: Tilføjet retningslinjer for brug af talestreger ved citater.
 ## Indhold
+- Tekstlængder *(nyt!)*
 - Navne på personer
 - Titler på spil, film, mv
    - Romertal eller titalssystemet?
 - Overskrifter
-- Citater *(Her er nyt!)*
+- Citater
 - Links
 - Tal og numre
 - Forkortelser
    - Konsoller og platforme
+
+## Tekstlængder
+**Anmeldelser** skal have en længde mellem 3.000 og 8.000 anslag, inklusive mellemrum. Hvis din tekst er længere, må du klippe, kondensere og skrive om - det plejer også at give et bedre og mere læsværdigt resultat.
+
+**Nyheder** skal helst være på *mindst* 150 ord. Det hjælper med at gøre Google glad. Der er ikke nogen fast øvre grænse. Har du svært ved at klemme 150 ord ud af historien, så prøv at få noget kontekst eller baggrund med.
+
+Word, Google Docs og alle andre nævneværdige tekstbehandlingsprogrammer kan fortælle dig, hvor mange ord og anslag, du har skrevet. Hvis du skriver direkte i WordPress (selvom det ikke anbefales) kan du få disse tal ved at trykke på ikonet med et "i" i en cirkel i værktøjslinjen øverst på redigeringssiden.
 
 ## Navne på personer
 Første gang en person omtales i en tekst, bruges vedkommendes fulde navn. Herefter omtales personen med efternavn:
