@@ -102,7 +102,9 @@ Det udvalgte billede er det, der både vises øverst i artiklen under overskrift
 
 Du kan søge i databasen og vælge et egnet billede. Og hvis her ikke er et, så må du ud på [Google Image Search](https://images.google.com/) og lede. Et tip er, at bruge knappen "Værktøj", når resultatere er kommet frem, til begrænse søgningen til store billeder. Vælg et resultat, højreklik på den nye thumbnail der kommer frem, og sig "åben i ny fane". Vurdér om det er godt nok, og gem det på din computer, så du kan uploade.
 
-*Hvis* du uploader, så **husk** at give billedet en fornuftig titel, og evt også en beskrivelse. Det hjælper MEGET med at søge det frem igen senere!
+*Hvis* du uploader, så **HUSK** at give billedet en fornuftig titel, og evt. også en beskrivelse. Det hjælper MEGET med at søge det frem igen senere! Som *minimum* skal titlen indeholde spillet/filmen/produktets fulde navn, så andre kan finde det. Du kan evt. omdøbe filen inden du uploader, da filnavnet som udgangspunkt bliver indsat som titel.
+
+
 
 ![](./assets/billedtitel.png)
 
