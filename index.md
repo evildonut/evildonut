@@ -12,4 +12,6 @@ Tag fat i Rasmus, hvis du har spørgsmål, forslag til ændringer eller ideer ti
 * ✅ [Tjekliste til når du tilføjer nyheder/artikler til siden](nyhedtjekliste.html) *(Her er nyt!)*
 * ✅ [Nyttige links](nyttigelinks.html)
 
+## Videoguides
+- ✅[Sådan sætter du karakterer ind i dine anmeldelser](https://www.youtube.com/watch?v=l3yQLvOHv8o)
 
