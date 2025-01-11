@@ -16,7 +16,7 @@ Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx
 ✅ Indsæt relevante links i teksten  
 ✅ Indsæt evt Tweets, Youtube-videoer mv  
 ✅ Tilføj skribentprofil  
-✅ Tilføj "MERE FRA HARDWIRE"  
+✅ Tilføj "MERE FRA ARKADEN"  
 ✅ Vælg den rette kategori  
 ✅ Tilføj nogle relevante tags  
 ✅ Tilføj et "udvalgt billede"  *(her er nyt!)*  
