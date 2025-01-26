@@ -8,10 +8,10 @@ Tag fat i Rasmus, hvis du har spørgsmål, forslag til ændringer eller ideer ti
 
 ## Indhold
 * ✅ [Stilguide](stilguide.html) 
-* ✅ [Guide til coverbilleder på forsiden](billedguide.html)
+* ✅ [Guide til coverbilleder på forsiden](billedguide.html) *Nyt!*
 * ✅ [Tips til at optage lyd/speaks](optaglyd.html)
 * ✅ [Tjekliste til når du tilføjer nyheder/artikler til siden](nyhedtjekliste.html)
-* ✅ [Sådan indsætter du tweets](twitterlinks.html) *Nyt!*
+* ✅ [Sådan indsætter du tweets](twitterlinks.html) 
 * ✅ [Nyttige links](nyttigelinks.html)
 
 ## Videoguides
