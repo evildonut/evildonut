@@ -4,10 +4,11 @@ Bogmærk siden, så du altid har den ved hånden. Del gerne linket med de andre 
 
 Tag fat i Rasmus, hvis du har spørgsmål, forslag til ændringer eller ideer til nye guides!
 
-*Sidst opdateret: 11-01-2025*
+*Sidst opdateret: 26-01-2025*
 
 ## Indhold
 * ✅ [Stilguide](stilguide.html) 
+* ✅ [Guide til coverbilleder på forsiden](billedguide.html)
 * ✅ [Tips til at optage lyd/speaks](optaglyd.html)
 * ✅ [Tjekliste til når du tilføjer nyheder/artikler til siden](nyhedtjekliste.html)
 * ✅ [Sådan indsætter du tweets](twitterlinks.html) *Nyt!*

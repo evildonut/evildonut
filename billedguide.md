@@ -1,3 +1,7 @@
+*[Tilbage til forsiden](index.html)*  
+
+# Guide til coverbilleder på forsiden
+
 Alle artikler skal have et billede tilknyttet. Det kan være en hård nød at knække, for billedet skal være trækplaster på forsiden - dét, der får læseren til at klikke. Derfor er det nødvendigt at bruge lidt tid og omtanke på at finde et fedt billede til din tekst. Det skal denne guide hjælpe med.  
 
 Guiden gennemgår disse ting:  
