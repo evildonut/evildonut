@@ -18,7 +18,7 @@ Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx
 ✅ Indsæt evt Tweets, Youtube-videoer mv  
 ✅ Vælg den rette kategori  
 ✅ Tilføj et "udvalgt billede"  *(her er nyt!)*  
-✅ For anmeldelser: ret URL til *(her er nyt! **Vigtigt!**)*  🚨
+✅ For anmeldelser: ret URL til *(her er nyt! **Vigtigt!**)*  🚨  
 ✅ Læs det hele igennem en sidste gang  
 ✅ Planlæg tidspunkt eller offentliggør  
 
@@ -47,7 +47,7 @@ Det er heldigvis nemt: Du åbner det relevante tweet/video/whatever i din browse
 
 WP finder selv ud af resten. Du behøver ikke rode med indlejring eller andet. Bare ren copy/paste, som ville du dele et link på Facebook eller i en email eller lignende.
 
-Bemærk dog, at WordPress ikke kan finde ud af links til X. Men skifter du "x.com" ud med "twitter.com", inden du indsætter linket, plejer det at virke. Ellers har vi en mere grundig [guide til Twitter-links](./titterlinks.html).
+Bemærk dog, at WordPress ikke kan finde ud af links til X. Men skifter du "x.com" ud med "twitter.com", inden du indsætter linket, plejer det at virke. 
 
 ## Tilføj skribentprofil
 Nederst på redigeringssiden er der en boks, der hedder "employee". Den styrer, hvem der bliver vist som forfatter af artiklen/nyheden. Det vil som regel være dit eget navn, du skal finde her 😅 Tryk på feltet, scroll ned til dit navn eller søg det frem, og vælg det.
@@ -75,10 +75,6 @@ Du kan søge i databasen og vælge et egnet billede. Og hvis her ikke er et, så
 
 ![](./assets/billedtitel.png)
 
-**Vigtigt:** Et godt billede har ikke nogen lys tekst på sig, ej heller for mange lyse farver. På nogle dele af forsiden bliver nyheden/artiklens overskrift nemlig vist med hvid skrift oven på billedet, og så dur det ikke at teksten går i ét med baggrunden eller bliver rodet sammen med anden tekst.
-
-Så, vælg et billede med stærke, klare farver og uden hvid tekst på.
-
 ***Nyt:*** Vi skal altid kreditere hvem vi har billedet fra/hvem det tilhører, og evt fotografen der har taget det - det gælder også for officielle screenshots, pressebilleder mv. Det gøres i feltet *"Featured image source"*, lige under det store tekstfelt.
 
 På det nye site skal vi også selv skrive "Foto:"
@@ -102,7 +98,7 @@ Eksempler:
 >commandos-origins  
 >reservatet  
 
-Det giver fine links som fx
+Det giver fine links som fx  
 [https://arkaden.dk/anmeldelser/doom-the-dark-ages/](https://arkaden.dk/anmeldelser/doom-the-dark-ages/)  
 [https://arkaden.dk/anmeldelser/commandos-origins/](https://arkaden.dk/anmeldelser/commandos-origins/)  
 [https://arkaden.dk/anmeldelser/reservatet/](https://arkaden.dk/anmeldelser/reservatet/)  
