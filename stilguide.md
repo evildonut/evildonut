@@ -65,6 +65,8 @@ Du skal altid have *minimum* to afsnits tekst før og efter en mellemrubrik. Der
 
 Mellemrubrikker er ikke et krav. Kan du få din tekst til at fungere uden (eller er den kort nok til at mellemrubrikker er overflødige), er det også fint.
 
+Mellemrubrikker benytter formateringen **Overskrift 2** eller **Header 2** i WordPress. På det gamle site var vi nødsaget til at bruge H4-formatteringen, men ikke længere!
+
 ❌ **Underrubrikker er ude**. Vi starter ikke længere artikler med en underrubrik (det felt, der på det gamle site hed "brød tekst" af en eller anden åndssvag grund), altså én-to sætninger med fed.
 
 
