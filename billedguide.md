@@ -15,7 +15,7 @@ Vi er et kommercielt foretagende. Der er penge i spil. Derfor skal vi være *meg
 
 Rigtig mange mennesker har fået den opfattelse, at hvis et billede ligger på nettet, må man bare bruge det. **Sådan er det ikke**. Medmindre du selv har stået med kameraet, skal vi helt firkantet i princippet have fået lov til at bruge hvert eneste billede vi bringer.  
 
-I praksis kan vi selvfølgelig ikke skrive eller ringe rundt til alle fotografer og grafikere i verden og spørge om lov. I stedet må vi nøjes med at bruge billeder, hvor ophavsfolkene har givet os lov i forvejen. Dem er der heldigvis mange af.  
+I praksis kan vi selvfølgelig ikke skrive eller ringe rundt til alle fotografer og grafikere i verden og spørge om lov. I stedet må vi nøjes med at bruge billeder, hvor ophavsfolkene har **givet os lov** i forvejen. Dem er der heldigvis mange af.  
 
 Vi kan i god tro formode, at der er givet lov til at bruge
 
@@ -37,9 +37,9 @@ Ofte kan man også se, hvordan fotografen evt. gerne vil krediteres.
 
 #### Hvilke billeder må vi *ikke* bruge?
 
-Vi kan komme alvorligt i klemme, hvis vi bruger billeder, vi ikke har fået tilladelse til. Det gælder især billeder taget fra røde løbere, prisuddelinger, koncerter m.m. Kort sagt, alle billeder taget af en professionel fotograf eller fotojournalist, der arbejder for et medie, et billedbureau, eller på anden måde lever af at sælge disse billeder videre.  
+Vi kan komme **alvorligt i klemme**, hvis vi bruger billeder, vi ikke har fået tilladelse til. Det gælder især billeder taget fra røde løbere, prisuddelinger, koncerter m.m. Kort sagt, alle billeder taget af en professionel fotograf eller fotojournalist, der arbejder for et medie, et billedbureau, eller på anden måde lever af at sælge disse billeder videre.  
 
-Hvis billederne stammer fra nogle af disse steder, skal du holde dig langt, langt væk:  
+Hvis billederne stammer fra nogle af disse steder, skal du holde dig **langt, langt væk:**  
 
 - ❌ ScanPix
 - ❌ Ritzau
@@ -67,7 +67,6 @@ Et godt cover-billede
 - ✅ har et klart motiv
 - ✅ har klare og kontrastfulde farver
 - ✅ er nemt at aflæse, også når det er lille
-- ✅ har ingen tekst på sig
 
 Et klart motiv kan både være en person, en figur, en genstand eller andet. Det skal bare være tydeligt, hvad der er i fokus.  
 
@@ -75,14 +74,26 @@ Klare og kontrastfulde farver giver blikfang. Et billede med mudrede eller kun m
 
 Forsidebilleder kan både blive vist i stort format øverst på siden, og som en lille thumbnail længere nede. Billedet skal fungere begge steder. Derfor må det ikke være for rodet - billeder fra spil kan desværre være slemme i den sammenhæng. Så når du leder efter billeder, så hold gerne øje med hvordan thumbnail'ene ser ud. Kan du se hvad billedet forestiller i mini-format? Hvis ikke, så find et andet.  
 
-Tekst på billeder oftest noget lort. Dels giver det tit dobbeltkonfekt i forhold til overskriften. Dels bliver dele af teksten tit skåret af, når WordPress justerer billedet til brug på forsiden. Og dels er et stort, tykt logo sjældent særligt spændende at se på. Prøv så vidt muligt at finde billeder, der ikke har tekst.  
+Billeder med tekst kræver lidt omtanke. Dels kan de dobbeltkonfekt i forhold til overskriften. Dels bliver dele af teksten tit skåret af, når WordPress justerer billedet til brug på forsiden. Og dels er et stort, tykt logo sjældent særligt spændende at se på.
+
+Dog er der meget key-art, der ofte har et logo. Og nogle spil har ikke helt selv en stærk nok visuel identitet til at man kan genkende dem uden et navn tilknyttet. Altså kan billeder med tekst i nogle tilfælde være nødvendige. Men prøv så vidt muligt at finde screenshots eller artwork, der ikke har tekst på sig. Og undgå billeder, der *kun* består af et logo. En god baggrund hjælper meget!
 
 **Hvad hvis nyheden handler om et firma og ikke et produkt?** Et firmalogo ser sjældent særligt spændende ud. Ofte er det bedre at vælge et billede af et spil eller produkt, som firmaet er særligt kendt for - Mario til en nyhed om Nintendo, Kratos eller en PlayStation til en nyhed om Sony. Hvis du har lidt grafisk snilde og kan sætte en fed collage sammen, kan det også være et hit. Og prøv ellers så vidt som muligt at finde nogle interessante produktbilleder.  
 
+### Formater
+Billeder skal helst være i 16:9-format. Det svarer til et almindeligt fjernsyn eller computerskærm. Andre formater (fx kvadratiske billeder) bliver beskåret på uforudsigelige måder af WordPress og kommer let til at se dårlige ud. 
+
+De magiske tal, når man kigger på billedets opløsning, er **1920x1080** eller **2560x1440**. 
+
 ### Eksempler
+Flere af disse er taget fra det gamle website, men vi kan stadig lære noget af dem.
+
+![](./assets/billedeksempler4.png)
+
+Palworld-billedet er klart og tydeligt. Teksten på Kingdom Come Deliverance-billedet er derimod for lille og svær at aflæse, ligesom motivet heller ikke er helt tydeligt, når billedet er så nedskaleret.
 
 ![](./assets/billedeksempler1.png)
-Det første billede er godt, det andet billede er suverænt. Tredje billede er et fint eksempel på, hvorfor tekst på billeder er skidt.  
+Det første billede er godt, det andet billede er suverænt. Tredje billede er et fint eksempel på, hvorfor tekst på billeder kan være skidt.  
 
 ![](./assets/billedeksempler2.png)
 Første billede er godt. Andet billede har tekst, men det er som element i en fin collage og fungerer glimrende i dette tilfælde. Tredje billede er nærmest ren tekst og et uigenkendeligt logo, det ser elendigt ud.  

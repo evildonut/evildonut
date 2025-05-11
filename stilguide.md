@@ -1,14 +1,14 @@
 *[Tilbage til forsiden](index.html)*
-# Stilguide v0.4
-*Sidst opdateret 26-04-2024*
+# Stilguide v1.0
+*Sidst opdateret 11-05-2025*
 
-Ændringer siden sidst: Tilføjet retningslinjer for brug af talestreger ved citater.
+Ændringer siden sidst: Afsnittet om blokcitater er opdateret til at passe med det nye site.
 ## Indhold
 - Tekstlængder *(nyt!)*
 - Navne på personer
 - Titler på spil, film, mv
    - Romertal eller titalssystemet?
-- Overskrifter
+- Overskrifter og mellemrubrikker
 - Citater
 - Links
 - Tal og numre
@@ -47,7 +47,7 @@ Der findes utroligt mange spil, der er efterfølgere, og dermed har tal i navnet
 
 Og vi siger tak til Activision og deres beslutning om at navngive de nye *Call of Duty: Modern Warfare*-remakes med romertal, så man er nødt til at skelne *Call of Duty: Modern Warfare 2* fra *Call of Duty: Modern Warfare II*, for det er jo ikke spor besværligt, nej.
 
-## Overskrifter
+## Overskrifter og mellemrubrikker
 Til nogle artikelformater/tekstgenrer bruger vi overskrifter, der følger et bestemt format.
 
 **Anmeldelser**: Start overskriften med "(spillets titel)-anmeldelse -" og så fængende undertitel. For eksempel:
@@ -57,6 +57,17 @@ Til nogle artikelformater/tekstgenrer bruger vi overskrifter, der følger et bes
 >Assassin's Creed: Mirage-anmeldelse - et nødvendigt skridt tilbage, men kun et lille skridt frem
 
 Husk bindestreget mellem sidste ord i spillets titel og ordet "anmeldelse". Husk også at ændre URL'en af SEO-hensyn. Se [Tjeklisten for artikler](nyhedstjekliste.html) for mere (dette gælder specifikt for anmeldelser, ikke andre tekster).
+
+### Mellemrubrikker
+Mellemrubrikker er gode! De kan gør en tekst mere overskuelig, lettere at læse og lettere at finde rundt i.
+
+Du skal altid have *minimum* to afsnits tekst før og efter en mellemrubrik. Der må gerne være flere, men aldrig færre. Det ser dårligt ud med kun ét afsnit.
+
+Mellemrubrikker er ikke et krav. Kan du få din tekst til at fungere uden (eller er den kort nok til at mellemrubrikker er overflødige), er det også fint.
+
+❌ **Underrubrikker er ude**. Vi starter ikke længere artikler med en underrubrik (det felt, der på det gamle site hed "brød tekst" af en eller anden åndssvag grund), altså én-to sætninger med fed.
+
+
 ## Citater
 Hvis vi citerer noget, nogen har sagt i et interview, gør vi det som en del af den almindelige tekst:
 
@@ -64,9 +75,9 @@ Hvis vi citerer noget, nogen har sagt i et interview, gør vi det som en del af 
 >
 >“Virksomhedens _scope_ var ikke så fokuseret, som det nok burde have været, og man kunne se resultatet i den måde, det kom ind på markedet på. Vores egen hybris indhentede os til en vis grad.”
 
-Hvis vi citerer fra en skreven tekst - for eksempel en pressemeddelelse, en e-mail, et opslag på sociale medier - indsættes det i stedet som et blokcitat. Indsæt teksten i WP, marker afsnittet og vælg den blok-type der hedder "citat". Resultatet ser således ud:
+Hvis vi citerer fra en skreven tekst - for eksempel en pressemeddelelse, en e-mail, et opslag på sociale medier - indsættes det i stedet som et blokcitat. Indsæt teksten i WP, marker afsnittet og tryk på knappen med det store citationstegn i værktøjslinjen. Resultatet ser således ud:
 
-![](./assets/blokcitat.png)
+![](./assets/blokcitatny.png)
 
 (Hvis citatet er så kort, at det ikke fylder mere end en enkelt linje eller deromkring, er det ikke nødvendigt at lave blokcitat)
 

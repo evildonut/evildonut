@@ -1,48 +1,35 @@
 *[Tilbage til forsiden](index.html)*
 
 # Tjekliste til når du tilføjer nyheder/artikler til siden
-*Sidst opdateret 26-04-2024*
+*Sidst opdateret 11-05-2025*
+
+*Ændringer siden sidst: Guiden er opdateret til det nye site. Afsnittet om underrubrik er fjernet, da vi ikke bruger dem mere. **Bemærk især** at der er nye regler for URL'en til anmeldelser!*
 
 Dette er en lille checkliste med punkter, du kan støtte dig til, når du skal lægge en artikel eller nyhed op på websiden. Brug den gerne som et værktøj til at sikre, at du har gjort alt hvad der skal gøres. Alle punkter bliver uddybet nedenfor.
 
-Husk, at du altid har mulighed for at trykke "gem som kladde". Brug den gerne flittigt, da den også gør forhåndsvisninger mere pålidelige.
+Husk, at du altid har mulighed for at trykke "gem som kladde" ("Save draft"). Brug den gerne flittigt, da den også gør forhåndsvisninger mere pålidelige.
 
 Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx Word, Google Docs, LibreOffice eller hvad de nu alt sammen hedder. Dels er det noget lettere at arbejde med en at forfatte direkte i WP, dels er det altid godt med automatisk stavekontrol. 
 
 ✅ Læs din tekst igennem for stave- og slåfejl  
 ✅ Sæt overskrift ind i WP  
-✅ Sæt underrubrik ind i WP  
 ✅ Sæt din artikel ind i WP  
 ✅ Indsæt relevante links i teksten  
 ✅ Indsæt evt Tweets, Youtube-videoer mv  
-✅ Tilføj skribentprofil  
-✅ Tilføj "MERE FRA ARKADEN"  
 ✅ Vælg den rette kategori  
-✅ Tilføj nogle relevante tags  
 ✅ Tilføj et "udvalgt billede"  *(her er nyt!)*  
-✅ For anmeldelser: ret URL til  
+✅ For anmeldelser: ret URL til *(her er nyt! **Vigtigt!**)*  🚨
 ✅ Læs det hele igennem en sidste gang  
-✅ Publicer og opdater forsiden  
+✅ Planlæg tidspunkt eller offentliggør  
 
 ## Læs din tekst igennem for stave- og slåfejl
 Word og lignende programmer kan fange meget, men langt fra alt. Stavekontrol er elendig til at spotte manglende ord, for eksempel. Så læs din tekst igennem fra ende til anden, inden du går i gang med at overføre den til WP. Læs, ikke skimme.
 
 ## Sæt overskrift ind i WP
-Overskriften (eller rubrikken, hvis vi skal tale journalistsprog) giver mere eller mindre sig selv. Det er den første, store linje i WP-editoren.
-
-## Sæt underrubrik ind i WP
-Laaangt nede af siden er der et felt, der hedder "brød tekst". Her skal tilføjes en lille underoverskrift (underrubrik for de faglærte). Den bliver kun vist, når man åbner selve artiklen.
-
-Nej, det giver ingen mening at feltet til underrubrik hedder "brød tekst". Jeg synes også det er underligt og forvirrende.
-
-![](./assets/broedtekst-edit.png)  
-Her indsættes teksten
-
-![](./assets/broedtekst-visning.png)  
-Og sådan vises den i artiklen.
+Overskriften (eller rubrikken, hvis vi skal tale journalistsprog) giver mere eller mindre sig selv. På det nye site har den fået sin egen dedikerede boks.
 
 ## Sæt din artikel ind i WP
-Kopier selve artikel-teksten ind. Det sker også i det store felt øverst, hvor du satte overskriften ind.
+Kopier selve artikel-teksten ind. Det i det store felt, der har en lille værktøjslinje i toppen.
 
 ## Indsæt relevante links i teksten
 Så skal brugerne have noget at klikke på! Indsæt henvisninger til de kilder, vi citerer fra, og henvis også meget gerne til andre nyheder og artikler om samme emne, hvis vi har nogen.
@@ -50,10 +37,6 @@ Så skal brugerne have noget at klikke på! Indsæt henvisninger til de kilder, 
 Lad linket indgå som en naturlig del af teksten, fx: "På [spillets nyopslåede Steam-side](http://example.com) fremgår det..."
 
 Undgå formuleringer som disse: "Du kan læse mere om spillet [her](http://example.com)"
-
-Husk at indstille linket til at åbne i et nyt faneblad.
-
-![](./assets/link-faneblad.png)
 
 **Bemærk:** Jeg anbefaler , at du *ikke* indsætter links i dit skriveprogram, da det hurtigt bliver noget rod at kopiere over. Gem i stedet adresserne, du vil tilføje, i Notepad eller lignende, og kopier dem så ind derfra.
 
@@ -64,38 +47,23 @@ Det er heldigvis nemt: Du åbner det relevante tweet/video/whatever i din browse
 
 WP finder selv ud af resten. Du behøver ikke rode med indlejring eller andet. Bare ren copy/paste, som ville du dele et link på Facebook eller i en email eller lignende.
 
+Bemærk dog, at WordPress ikke kan finde ud af links til X. Men skifter du "x.com" ud med "twitter.com", inden du indsætter linket, plejer det at virke. Ellers har vi en mere grundig [guide til Twitter-links](./titterlinks.html).
+
 ## Tilføj skribentprofil
-Lav en tom linje i bunden af din tekst, og hold musen over den. Nu skulle der gerne dukke et lille sort plus op for enden af linjen. Tryk på plusset, og vælg "Skribent: (dit navn)"
+Nederst på redigeringssiden er der en boks, der hedder "employee". Den styrer, hvem der bliver vist som forfatter af artiklen/nyheden. Det vil som regel være dit eget navn, du skal finde her 😅 Tryk på feltet, scroll ned til dit navn eller søg det frem, og vælg det.
 
-Knappens placering kan godt flytte sig, afhængigt af hvilke blokke du sidst har indsat. Kan du ikke finde den, så tryk "Gennemse alle" og led under fanen "Genbrugelig"
+Denne funktion indsætter både byline i starten af artiklen, og forfatterprofil i bunden.
 
-![](./assets/sortplus.png)
+![](./assets/skribentprofilny.png)
 
-![](./assets/skribent.png)
-
-## Tilføj "MERE FRA ARKADEN"
-Samme princip som før. Nu skal du bare vælge blokken "MERE FRA ARKADEN"
-
-![](./assets/merefra.png)
-*(Ja, der står "hardwire" på billedet og ikke "arkaden", men jeg orker ikke at tage nye screenshots)*
 
 ## Vælg den rette kategori
-De næste mange punkter foregår alle i sidebar'en til højre på siden. Hvis du ikke kan se den, så tryk på den sorte knap med tandhjulet i værktøjslinjen øvert (lige ved siden af knappen "Udgiv")
+De næste mange punkter foregår alle i sidebar'en til højre på siden. 
 
-Sørg for at fanen "Indlæg" er valgt.
+På det nye site har vi en langt mere stringent opdeling af artikeltyper, så alt ikke længere bare er et "indlæg". Det gør heldigvis også kategorierne meget nemmere at overskue.
 
-Vælg den rette kategori, fx "Nyheder" eller "Anmeldelse". Det giver ret meget sig selv.
+For spilnyheder skal du ofte vælge kategorien "gaming". Kategorierne "Nintendo", "PlayStation" og "Xbox" skal kun bruges, hvis nyheden specifikt handler om den pågældende platform eller firmaerne bag. *"Indiana Jones er på vej til PS5"* er en PlayStation-nyhed. *"EA Sports FC 27 annonceret til alle konsoller"* er ikke.
 
-## Tilføj nogle relevante tags
-Efter kategorier kommer feltet "Tags". Gode tags hjælper med at søge nyheder og artikler frem igen, og knytter også relaterede historier sammen.
-
-**Som minimum** skal titlen på spillet, artiklen omhandler, tilføjes her. Eller navnet på det selskab, nyheden handler om, hvis det ikke er et specifikt spil. Men tilføj gerne flere!
-
-Har Phil Spencer udtalt sig om Redfall? Så skal både han og spillet tagges. Også gerne Xbox og Microsoft, nu du er i gang.
-
-Er nogle udviklere ude med riven efter Unity? Tag både deres navne, de studier de kommer fra, og Unity også.
-
-Når du skriver et tag, så start med de første par bogstaver, og se om systemet selv foreslår resten - på den måde kan vi undgå dubletter. Det er fx noget møg, hvis vi har både "Diablo IV", "Diablo 4" og "DiabloIV" i databasen. Tålmodighed er en dyd her.
 
 ## Tilføj et "udvalgt billede"
 Det udvalgte billede er det, der både vises øverst i artiklen under overskriften, og i alle sammenhænge ude på forsiden.
@@ -105,34 +73,43 @@ Du kan søge i databasen og vælge et egnet billede. Og hvis her ikke er et, så
 *Hvis* du uploader, så **HUSK** at give billedet en fornuftig titel, og evt. også en beskrivelse. Det hjælper MEGET med at søge det frem igen senere! Som *minimum* skal titlen indeholde spillet/filmen/produktets fulde navn, så andre kan finde det. Du kan evt. omdøbe filen inden du uploader, da filnavnet som udgangspunkt bliver indsat som titel.
 
 
-
 ![](./assets/billedtitel.png)
 
 **Vigtigt:** Et godt billede har ikke nogen lys tekst på sig, ej heller for mange lyse farver. På nogle dele af forsiden bliver nyheden/artiklens overskrift nemlig vist med hvid skrift oven på billedet, og så dur det ikke at teksten går i ét med baggrunden eller bliver rodet sammen med anden tekst.
 
 Så, vælg et billede med stærke, klare farver og uden hvid tekst på.
 
-***Nyt:*** Vi skal altid kreditere hvor vi har billedet fra, og evt fotografen der har taget det - det gælder også for officielle screenshots, pressebilleder mv. Det gøres i feltet *"Foto af"*, lige over feltet *"Brødtekst"* (altså det med det totalt misvisende navn, hvor vi indsætter underrubrik).
+***Nyt:*** Vi skal altid kreditere hvem vi har billedet fra/hvem det tilhører, og evt fotografen der har taget det - det gælder også for officielle screenshots, pressebilleder mv. Det gøres i feltet *"Featured image source"*, lige under det store tekstfelt.
 
-Eksempler ("Foto af" bliver sat ind automatisk):
->Foto af: Ghost Ship Games
->Foto af: 20th Century Films
->Foto af: Morten Jensen
+På det nye site skal vi også selv skrive "Foto:"
+
+Eksempler:
+>Foto: Ghost Ship Games
+>Foto: 20th Century Films
+>Foto: Morten Jensen
 
 ## Ved anmeldelser: ret URL til
-Af hensyn til SEO vil vi gerne have, at selve web-adressen til vores anmeldelser følger et bestemt mønster. Derfor skal URL-feltet rettes til, så det følger mønsteret *spil-titel-anmeldelse* - og ikke mere end det. Undertitlen i overskriften skal skæres fra her. For eksempel:
+Af hensyn til SEO vil vi gerne have, at selve web-adressen til vores anmeldelser følger et bestemt mønster. ~~Derfor skal URL-feltet rettes til, så det følger mønsteret *spil-titel-anmeldelse* - og ikke mere end det. Undertitlen i overskriften skal skæres fra her. For eksempel:~~
 
->cocoon-anmeldelse  
->alan-wake-ii-anmeldelse  
+🚨🚨🚨 **Bemærk! Ny procedure!**
 
-Det giver nemlig SEO-venlige URLs som disse:
+På det nye site bliver ordet "anmeldelse" automatisk sat ind i URL'en, da anmeldelser nu er sin helt egen teksttype.
 
->Arkaden.dk/cocoon-anmeldelse/  
->Arkaden.dk/alan-wake-ii-anmeldelse/
+Vi skal dog stadig rette til, så anmeldelsens undertitel ikke er med i URL'en. I stedet skal der kun stå spillets titel, med små bogstaver, "-" i stedet for mellemrum og ingen koloner eller andet.
 
-Du finder knappen til at ændre URL'en ude i den store bjælke til højre.
+Eksempler:  
+>doom-the-dark-ages  
+>commandos-origins  
+>reservatet  
 
-![](./assets/skifturl.png)
+Det giver fine links som fx
+[https://arkaden.dk/anmeldelser/doom-the-dark-ages/](https://arkaden.dk/anmeldelser/doom-the-dark-ages/)  
+[https://arkaden.dk/anmeldelser/commandos-origins/](https://arkaden.dk/anmeldelser/commandos-origins/)  
+[https://arkaden.dk/anmeldelser/reservatet/](https://arkaden.dk/anmeldelser/reservatet/)  
+
+Du finder knappen til at ændre URL'en ude lige under feltet til overskriften.
+
+![](./assets/skifturlny.png)
 
 ## Læs det hele igennem en sidste gang
 Nu hvor du har været alt det ovenstående igennem, er dine øjne friske. Så giv lige teksten en sidste hurtig gennemlæsning. Det kan jo være, du har overset noget. 
@@ -142,6 +119,10 @@ Gem gerne som kladde og brug forhåndsvisningen, så du er sikker på at det ser
 ## Publicer og opdater forsiden
 Tryk på den blå knap. Vupti, din historie er live!
 
-Prik til nogen på Messenger eller Discord, hvis du ikke er sikker på hvordan man opdaterer forsiden.
+Hvis du sidder med en anmeldelse, der først skal udkomme senere, kan du indstille et tidspunkt på planlægge udgivelsen i fremtiden. Tryk på "Rediger" ud for linjen "Udgiv med det samme" og vælg et tidspunkt.
+
+![](./assets/planlaegudgiv.png) 
+
+På det nye site opdateres forsiden automatisk. Du skal *ikke* bruge afkrydsningsfeltet "Skal postet fremhæves på forsiden?" - det er kun til chefredaktøren.
 
 *[Tilbage til forsiden](index.html)*
