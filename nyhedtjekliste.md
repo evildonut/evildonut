@@ -20,7 +20,7 @@ Guiden her forudsætter, at du skriver dine tekster i et eksternt program som fx
 ✅ Tilføj et "udvalgt billede"  *(her er nyt!)*  
 ✅ For anmeldelser: ret URL til *(her er nyt! **Vigtigt!**)*  🚨  
 ✅ Læs det hele igennem en sidste gang  
-✅ Planlæg tidspunkt eller offentliggør  
+✅ Gem kladde og publicer
 
 ## Læs din tekst igennem for stave- og slåfejl
 Word og lignende programmer kan fange meget, men langt fra alt. Stavekontrol er elendig til at spotte manglende ord, for eksempel. Så læs din tekst igennem fra ende til anden, inden du går i gang med at overføre den til WP. Læs, ikke skimme.
@@ -112,8 +112,12 @@ Nu hvor du har været alt det ovenstående igennem, er dine øjne friske. Så gi
 
 Gem gerne som kladde og brug forhåndsvisningen, så du er sikker på at det ser rigtigt ud, inden du publicerer.
 
-## Publicer og opdater forsiden
-Tryk på den blå knap. Vupti, din historie er live!
+## Gem kladde og publicer
+**Inden du udgiver** *skal* du trykke "Gem kladde". Ellers får din nyhed/artikel en mærkelig URL, hvor overskriften ikke er med, og som bare består af "arkaden.dk" og nogle tal.
+
+Derfor! Tryk "Gem kladde"! Også selvom din historie er klar til offentliggørelse.
+
+Herefter trykker du på den blå knap. Vupti, din historie er live!
 
 Hvis du sidder med en anmeldelse, der først skal udkomme senere, kan du indstille et tidspunkt på planlægge udgivelsen i fremtiden. Tryk på "Rediger" ud for linjen "Udgiv med det samme" og vælg et tidspunkt.
 
