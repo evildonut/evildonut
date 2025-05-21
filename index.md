@@ -4,7 +4,7 @@ Bogmærk siden, så du altid har den ved hånden. Del gerne linket med de andre 
 
 Tag fat i Rasmus, hvis du har spørgsmål, forslag til ændringer eller ideer til nye guides!
 
-*Sidst opdateret: 11-05-2025*
+*Sidst opdateret: 21-05-2025*
 
 ## Indhold
 * ✅ [Stilguide](stilguide.html) *Her er nyt!*

@@ -1,7 +1,7 @@
 *[Tilbage til forsiden](index.html)*
 
 # Tjekliste til når du tilføjer nyheder/artikler til siden
-*Sidst opdateret 11-05-2025*
+*Sidst opdateret 21-05-2025*
 
 *Ændringer siden sidst: Guiden er opdateret til det nye site. Afsnittet om underrubrik er fjernet, da vi ikke bruger dem mere. **Bemærk især** at der er nye regler for URL'en til anmeldelser!*
 
